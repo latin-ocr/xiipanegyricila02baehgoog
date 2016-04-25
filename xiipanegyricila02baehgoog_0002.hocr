@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./xiipanegyricila02baehgoog_0002.png"; bbox 0 0 717 1071; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 125 806 411 1009">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 125 806 411 1009">
+     <span class='ocr_line' id='line_1_1' title="bbox 125 806 411 1009; baseline -0.003 -200"><span class='ocrx_word' id='word_1_1' title='bbox 125 876 363 1009; x_wconf 55' lang='lat' dir='ltr'>r]</span> <span class='ocrx_word' id='word_1_2' title='bbox 409 806 411 808; x_wconf 75' lang='grc'><em>,</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 165 616 474 689">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 165 616 570 689">
+     <span class='ocr_line' id='line_1_2' title="bbox 165 616 474 689; baseline -0.005 -16"><span class='ocrx_word' id='word_1_3' title='bbox 165 616 474 689; x_wconf 48' lang='grc' dir='ltr'>«Τῐρῃιῡςξξρειιεςιῇεῡοηιε</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 636 109 639 936">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 636 109 639 936">
+     <span class='ocr_line' id='line_1_3' title="bbox 636 109 639 936; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 636 109 639 936; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
